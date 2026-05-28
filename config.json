@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessiondncrypt",
+        "uuid": 36793332,
+        "checksum": "h0l12"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
